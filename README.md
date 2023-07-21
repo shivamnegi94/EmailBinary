@@ -1,0 +1,2 @@
+# EmailBinary
+Email Binary support
