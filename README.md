@@ -1,2 +1,2 @@
 # EmailBinary
-Email Binary support
+Test mail Binary support
