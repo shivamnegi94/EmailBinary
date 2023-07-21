@@ -1,0 +1,7 @@
+
+h
+java:S1192*"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(¶¹¯Ñÿÿÿÿÿ8Şº› —1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡úäÂ8Åü —1
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(Ì¼Äú8‚¶“™—1
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(¼£‚8ƒ¶“™—1
+Z	java:S106l"9Replace this use of System.out or System.err by a logger.(ÁÏæÂûÿÿÿÿ8Ü¼› —1
